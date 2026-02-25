@@ -2,7 +2,7 @@ package model;
 
 import controller.StoryController;
 import view.StoryView;
-// Documentation update for GitHub commit screenshot
+// Documentation update for GitHub commit 
 
 public class InteractiveStoryMVC {
 
