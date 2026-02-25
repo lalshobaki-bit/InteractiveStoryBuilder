@@ -2,6 +2,7 @@ package model;
 
 import controller.StoryController;
 import view.StoryView;
+// Documentation update for GitHub commit screenshot
 
 public class InteractiveStoryMVC {
 
